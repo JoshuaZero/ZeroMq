@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ZeroMQ_Recv.dir/main.cpp.o  -o ZeroMQ_Recv -lzmq 

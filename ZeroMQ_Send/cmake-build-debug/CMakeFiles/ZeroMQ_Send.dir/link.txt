@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ZeroMQ_Send.dir/main.cpp.o  -o ZeroMQ_Send -lzmq 

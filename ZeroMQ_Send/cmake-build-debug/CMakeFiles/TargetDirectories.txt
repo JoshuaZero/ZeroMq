@@ -1,0 +1,3 @@
+/home/st007/local/projects/ZeroMQ_Send/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/st007/local/projects/ZeroMQ_Send/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/st007/local/projects/ZeroMQ_Send/cmake-build-debug/CMakeFiles/ZeroMQ_Send.dir
